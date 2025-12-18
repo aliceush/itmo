@@ -1,1 +1,1 @@
-print('alice sosala')
+print('')
