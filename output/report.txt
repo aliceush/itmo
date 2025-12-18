@@ -1,0 +1,13 @@
+ОТЧЕТ: посещаемость занятий по предметам
+
+Обработано записей посещаемости: 364680
+
+Наиболее посещаемые:
+  - English: attendance_rate=0.503, total=60684
+  - Science: attendance_rate=0.502, total=60881
+  - Arabic: attendance_rate=0.500, total=60749
+
+Наименее посещяемые:
+  - History: attendance_rate=0.499, total=60485
+  - Math: attendance_rate=0.500, total=61241
+  - Geography: attendance_rate=0.500, total=60640
